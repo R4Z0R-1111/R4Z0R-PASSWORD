@@ -16,6 +16,8 @@ It can do several simple things:
 
 You can find the R4Z0R-CRYPT Tool here: https://github.com/R4Z0R-1111/R4Z0R-CRYPT
 
+### I highly Recommend Encrypting the Passwords, since they are not safe without Encryption!
+
 If there are any suggestions message me here, or contact me on Discord! I am fairly new to programming in C# and these are one of my first projects! They are not the best! And not in there Final Version either! 
 
 ## Contact me on Discord R4Z0R#1111
